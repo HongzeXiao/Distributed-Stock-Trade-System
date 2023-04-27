@@ -1,0 +1,35 @@
+version: "3.9"
+services:
+  frontend:
+    environment:
+      - FRONTEND_IP=http://frontend:8080
+      - CATALOG_IP=http://catalog:8085
+      - ORDER_IP_1=http://order1:8081
+      - ORDER_IP_2=http://order2:8082
+      - ORDER_IP_3=http://order3:8083
+    build: ./frontend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - catalog
+      - order
+  catalog:
+    environment:
+      - FRONTEND_IP=http://frontend:8080
+      - CATALOG_IP=http://catalog:8085
+      - ORDER_IP_1=http://order1:8081
+      - ORDER_IP_2=http://order2:8082
+      - ORDER_IP_3=http://order3:8083
+    build: ./catalog
+    volumes:
+      - ./catalog:/app
+  order1:
+    environment:
+      - FRONTEND_IP=http://frontend:8080
+      - CATALOG_IP=http://catalog:8085
+      - ORDER_IP_1=http://order1:8081
+      - ORDER_IP_2=http://order2:8082
+      - ORDER_IP_3=http://order3:8083
+    build: ./order
+    volumes:
+      - ./order:/app
