@@ -1,0 +1,8 @@
+Analysis of the results:
+Normally, with the p increasing, the latency will increase.
+
+
+Answer of Questions:
+Can the clients notice the failures? No
+are they transparent to the clients? Yes
+Do all the order service replicas end up with the same database file? Yes

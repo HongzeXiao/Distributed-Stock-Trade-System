@@ -1,0 +1,447 @@
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3572, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1149}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 1769, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1150}, 'leader_id': 2}
+part3-order1-1    | Saving stocks to disk
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3849, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1151}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3672, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1152}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3772, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1153}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 1869, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1154}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3409, 'trade_quantity': 58, 'type': 'buy', 'transaction_number': 1155}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3846, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1156}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3748, 'trade_quantity': 98, 'type': 'buy', 'transaction_number': 1157}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3703, 'trade_quantity': 45, 'type': 'buy', 'transaction_number': 1158}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3872, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1159}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3657, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1160}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 1969, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1161}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3818, 'trade_quantity': 31, 'type': 'buy', 'transaction_number': 1162}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5299, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1163}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4839, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1164}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3567, 'trade_quantity': 90, 'type': 'buy', 'transaction_number': 1165}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3858, 'trade_quantity': 14, 'type': 'buy', 'transaction_number': 1166}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2069, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1167}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5210, 'trade_quantity': 89, 'type': 'buy', 'transaction_number': 1168}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3750, 'trade_quantity': 68, 'type': 'buy', 'transaction_number': 1169}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3341, 'trade_quantity': 68, 'type': 'buy', 'transaction_number': 1170}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3667, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1171}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5310, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1172}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4791, 'trade_quantity': 48, 'type': 'buy', 'transaction_number': 1173}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4891, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1174}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3767, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1175}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3339, 'trade_quantity': 2, 'type': 'buy', 'transaction_number': 1176}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3710, 'trade_quantity': 40, 'type': 'buy', 'transaction_number': 1177}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3324, 'trade_quantity': 15, 'type': 'buy', 'transaction_number': 1178}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3867, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1179}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5410, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1180}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4838, 'trade_quantity': 53, 'type': 'buy', 'transaction_number': 1181}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3607, 'trade_quantity': 96, 'type': 'buy', 'transaction_number': 1182}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2041, 'trade_quantity': 28, 'type': 'buy', 'transaction_number': 1183}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3967, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1184}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3606, 'trade_quantity': 1, 'type': 'buy', 'transaction_number': 1185}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 4067, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1186}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2141, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1187}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4760, 'trade_quantity': 78, 'type': 'buy', 'transaction_number': 1188}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3681, 'trade_quantity': 29, 'type': 'buy', 'transaction_number': 1189}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3706, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1190}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2136, 'trade_quantity': 5, 'type': 'buy', 'transaction_number': 1191}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5510, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1192}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4675, 'trade_quantity': 85, 'type': 'buy', 'transaction_number': 1193}, 'leader_id': 2}
+part3-order1-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 4030, 'trade_quantity': 37, 'type': 'buy', 'transaction_number': 1194}, 'leader_id': 2}
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3572, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1149}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 1769, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1150}, 'leader_id': 2}
+part3-order2-1    | Saving stocks to disk
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3849, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1151}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3672, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1152}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3772, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1153}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 1869, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1154}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3409, 'trade_quantity': 58, 'type': 'buy', 'transaction_number': 1155}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3846, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1156}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3748, 'trade_quantity': 98, 'type': 'buy', 'transaction_number': 1157}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3703, 'trade_quantity': 45, 'type': 'buy', 'transaction_number': 1158}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3872, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1159}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3657, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1160}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 1969, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1161}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3818, 'trade_quantity': 31, 'type': 'buy', 'transaction_number': 1162}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5299, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1163}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4839, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1164}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3567, 'trade_quantity': 90, 'type': 'buy', 'transaction_number': 1165}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici', 'price': 10.99, 'quantity': 3858, 'trade_quantity': 14, 'type': 'buy', 'transaction_number': 1166}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2069, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1167}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5210, 'trade_quantity': 89, 'type': 'buy', 'transaction_number': 1168}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3750, 'trade_quantity': 68, 'type': 'buy', 'transaction_number': 1169}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3341, 'trade_quantity': 68, 'type': 'buy', 'transaction_number': 1170}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3667, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1171}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5310, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1172}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4791, 'trade_quantity': 48, 'type': 'buy', 'transaction_number': 1173}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4891, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1174}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3767, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1175}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3339, 'trade_quantity': 2, 'type': 'buy', 'transaction_number': 1176}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3710, 'trade_quantity': 40, 'type': 'buy', 'transaction_number': 1177}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart2', 'price': 15.99, 'quantity': 3324, 'trade_quantity': 15, 'type': 'buy', 'transaction_number': 1178}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3867, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1179}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5410, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1180}, 'leader_id': 2}
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4838, 'trade_quantity': 53, 'type': 'buy', 'transaction_number': 1181}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3607, 'trade_quantity': 96, 'type': 'buy', 'transaction_number': 1182}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2041, 'trade_quantity': 28, 'type': 'buy', 'transaction_number': 1183}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 3967, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1184}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3606, 'trade_quantity': 1, 'type': 'buy', 'transaction_number': 1185}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 4067, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1186}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2141, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1187}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4760, 'trade_quantity': 78, 'type': 'buy', 'transaction_number': 1188}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo2', 'price': 9.99, 'quantity': 3681, 'trade_quantity': 29, 'type': 'buy', 'transaction_number': 1189}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo', 'price': 20.99, 'quantity': 3706, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1190}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'FishCo', 'price': 9.99, 'quantity': 2136, 'trade_quantity': 5, 'type': 'buy', 'transaction_number': 1191}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'Cici2', 'price': 10.99, 'quantity': 5510, 'trade_quantity': 100, 'type': 'sell', 'transaction_number': 1192}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'GameStart', 'price': 15.99, 'quantity': 4675, 'trade_quantity': 85, 'type': 'buy', 'transaction_number': 1193}, 'leader_id': 2}
+part3-order2-1    | replica_orders received: {'transaction': {'name': 'MenhirCo2', 'price': 20.99, 'quantity': 4030, 'trade_quantity': 37, 'type': 'buy', 'transaction_number': 1194}, 'leader_id': 2}
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:32] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:32] "DELETE /stockName/FishCo HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:32] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:32] "DELETE /stockName/FishCo HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:32] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:32] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/GameStart2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/GameStart2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:32] "DELETE /stockName/Cici2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:32] "DELETE /stockName/Cici HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:32] "DELETE /stockName/Cici HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:32] "GET /stockName/FishCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/FishCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:32] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:32] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:32] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:32] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/MenhirCo HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/GameStart HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/FishCo HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/Cici2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/FishCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/FishCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/GameStart HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/GameStart HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/GameStart2 HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/Cici2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/GameStart HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:33] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:33] "DELETE /stockName/GameStart HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:33] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:33] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:33] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/GameStart2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/GameStart2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:34] "DELETE /stockName/Cici HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:34] "DELETE /stockName/GameStart HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:34] "DELETE /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:34] "DELETE /stockName/Cici HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:34] "DELETE /stockName/GameStart HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/GameStart2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/FishCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/GameStart2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/Cici2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:34] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:34] "DELETE /stockName/MenhirCo HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:34] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:34] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:35] "DELETE /stockName/GameStart2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:35] "DELETE /stockName/Cici2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:35] "DELETE /stockName/FishCo2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:35] "DELETE /stockName/Cici HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/GameStart HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo2 HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/Cici HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/BearCo HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:35] "DELETE /stockName/MenhirCo HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/BearCo2 HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/FishCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.6 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/MenhirCo HTTP/1.1" 200 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/FishCo2 HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "GET /stockName/FishCo HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:35] "DELETE /stockName/Cici HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 308 -
+part3-catalog-1   | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
+part3-order1-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-order2-1    | 172.18.0.4 - - [01/May/2023 21:35:35] "POST /replica_orders HTTP/1.1" 200 -
+part3-frontend-1  | 172.18.0.4 - - [01/May/2023 21:35:35] "DELETE /stockName/FishCo2 HTTP/1.1" 200 -
+part3-order3-1    | 172.18.0.6 - - [01/May/2023 21:35:35] "POST /orders HTTP/1.1" 200 -
+part3-frontend-1  | 128.119.202.143 - - [01/May/2023 21:35:35] "POST /orders/ HTTP/1.1" 200 -
