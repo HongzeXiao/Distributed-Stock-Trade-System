@@ -18,7 +18,7 @@ MyState = OrderState()
 def get_leader_transactions(leader_addr):
     data = requests.get(leader_addr).json()
     if ("error" not in data):
-        MyOrder.transaction_number = data["transaction_number"]
+        MyOrder.transaction_number = int(data["transaction_number"])
         MyOrder.transactions = data["transactions"]
         MyOrder.saveToDisk()
         
@@ -141,7 +141,7 @@ def synchronize():
     elif request.method == "POST":
         content = request.get_json()
         transactions = content["transactions"]
-        transaction_number = content["transaction_number"]
+        transaction_number = int(content["transaction_number"])
         with MyOrder.lock:
             MyOrder.transaction_number = transaction_number
             MyOrder.transactions = transactions
