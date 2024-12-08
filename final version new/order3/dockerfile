@@ -1,0 +1,8 @@
+FROM python:3.10-alpine
+RUN pip install requests Flask
+
+WORKDIR /app
+
+COPY . .
+
+ENTRYPOINT ["python3", "order_server.py"]
